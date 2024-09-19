@@ -9,4 +9,11 @@ import { Component } from '@angular/core';
 })
 export class LoginPageComponent {
 
+  constructor(){}
+
+  uhuul(): void {
+    window.location.href = "/home"
+  }
+
+
 }
