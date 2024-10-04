@@ -14,5 +14,5 @@ import { CommonModule } from '@angular/common';
 })
 export class AppComponent {
   title = 'budegApp';
-  loged: boolean = false;
+  loged: boolean = true;
 }
